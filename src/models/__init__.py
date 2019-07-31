@@ -1,1 +1,1 @@
-from src.models.Users import storetable
+from src.models.users import Users
